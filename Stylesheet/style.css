@@ -206,7 +206,7 @@ p{
 /* Top-Banner Section */
 .top-banner{
     width: 100%;
-    background-image: url('/images/bg/bg-1.jpg');
+    background-image: url('../images/bg/bg-1.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -266,7 +266,7 @@ p{
 .story-section{
     width: 100%;
     height: 28.125rem;
-    background-image: url('/images/bg/bg-2.jpg');
+    background-image: url('../images/bg/bg-2.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -349,7 +349,7 @@ p{
 }
 .book-food{
     width: 100%;
-    background-image: url('/images/bg/bg-3.jpg');
+    background-image: url('../images/bg/bg-3.jpg');
     background-position: 0 71.9125px;
     background-repeat: no-repeat;
     background-attachment: fixed;
